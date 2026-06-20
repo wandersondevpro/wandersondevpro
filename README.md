@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**wandersondevpro/wandersondevpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Wanderson, desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+Trabalho principalmente com **JavaScript/TypeScript**, **React** e **Node.js**, construindo aplicações do front ao back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Buscando oportunidade como desenvolvedor Front-end, Back-end ou Full Stack
+- 💻 Construindo projetos full stack com React e Node.js
+- 🌱 Estou sempre aprendendo e me aprofundando no ecossistema JS/TS
+- 👯 Estou aberto a colaborar em projetos open source e iniciativas em equipe
+- 💬 Pergunte-me sobre React, Node.js ou desenvolvimento full stack
+- 📫 Como me encontrar:
+  - 📧 wanderson.devpro@gmail.com
+  - 💼 [LinkedIn](https://www.linkedin.com/in/wanderson-gabriel-267a37400/)
